@@ -22,7 +22,7 @@ echo "Purging modules"
 module purge
 
 # Run hyperalingment and ISC using Schaefer atlas:
-python run_fastsrm.py \
+python run_fastsrm_Schaefer.py \
     --dyad_id "$DYAD_ID" \
     --conditions generate read \
     --clean_dir ./data/derivatives/clean \
