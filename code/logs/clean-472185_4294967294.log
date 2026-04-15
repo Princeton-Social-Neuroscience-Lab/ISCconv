@@ -1,0 +1,3854 @@
+Purging modules
+Slurm job ID:  472185
+Slurm array task ID: 
+Wed Feb 19 07:39:47 PM EST 2025
+Running confound modeling
+
+  0%|                                                                                                      | 0/118 [00:00<?, ?it/s]
+  1%|▊                                                                                           | 1/118 [01:33<3:01:53, 93.27s/it]
+  2%|█▌                                                                                          | 2/118 [03:03<2:57:15, 91.69s/it]
+  3%|██▎                                                                                         | 3/118 [04:39<2:59:03, 93.42s/it]
+  3%|███                                                                                         | 4/118 [06:12<2:57:35, 93.47s/it]
+  4%|███▉                                                                                        | 5/118 [07:46<2:55:56, 93.42s/it]
+  5%|████▋                                                                                       | 6/118 [09:20<2:54:46, 93.63s/it]
+  6%|█████▍                                                                                      | 7/118 [10:53<2:53:12, 93.63s/it]
+  7%|██████▏                                                                                     | 8/118 [12:27<2:51:28, 93.53s/it]
+  8%|███████                                                                                     | 9/118 [14:01<2:50:07, 93.65s/it]
+  8%|███████▋                                                                                   | 10/118 [15:32<2:47:13, 92.91s/it]
+  9%|████████▍                                                                                  | 11/118 [17:05<2:45:54, 93.03s/it]
+ 10%|█████████▎                                                                                 | 12/118 [18:39<2:44:49, 93.29s/it]
+ 11%|██████████                                                                                 | 13/118 [20:12<2:42:53, 93.08s/it]
+ 12%|██████████▊                                                                                | 14/118 [21:46<2:41:52, 93.39s/it]
+ 13%|███████████▌                                                                               | 15/118 [23:21<2:41:16, 93.95s/it]
+ 14%|████████████▎                                                                              | 16/118 [24:55<2:39:50, 94.02s/it]
+ 14%|█████████████                                                                              | 17/118 [26:31<2:39:07, 94.53s/it]
+ 15%|█████████████▉                                                                             | 18/118 [28:03<2:36:13, 93.73s/it]
+ 16%|██████████████▋                                                                            | 19/118 [29:36<2:34:28, 93.62s/it]
+ 17%|███████████████▍                                                                           | 20/118 [31:09<2:32:42, 93.50s/it]
+ 18%|████████████████▏                                                                          | 21/118 [32:45<2:32:20, 94.24s/it]
+ 19%|████████████████▉                                                                          | 22/118 [34:20<2:30:52, 94.30s/it]
+ 19%|█████████████████▋                                                                         | 23/118 [35:54<2:29:19, 94.31s/it]
+ 20%|██████████████████▌                                                                        | 24/118 [37:28<2:27:31, 94.17s/it]
+ 21%|███████████████████▎                                                                       | 25/118 [39:00<2:24:57, 93.52s/it]
+ 22%|████████████████████                                                                       | 26/118 [40:34<2:23:26, 93.55s/it]
+ 23%|████████████████████▊                                                                      | 27/118 [42:08<2:22:27, 93.93s/it]
+ 24%|█████████████████████▌                                                                     | 28/118 [43:41<2:20:29, 93.66s/it]
+ 25%|██████████████████████▎                                                                    | 29/118 [45:11<2:17:01, 92.38s/it]
+ 25%|███████████████████████▏                                                                   | 30/118 [46:41<2:14:37, 91.79s/it]
+ 26%|███████████████████████▉                                                                   | 31/118 [48:19<2:15:31, 93.46s/it]
+ 27%|████████████████████████▋                                                                  | 32/118 [49:58<2:16:30, 95.24s/it]
+ 28%|█████████████████████████▍                                                                 | 33/118 [51:37<2:16:35, 96.42s/it]
+ 29%|██████████████████████████▏                                                                | 34/118 [53:17<2:16:28, 97.48s/it]
+ 30%|██████████████████████████▉                                                                | 35/118 [54:54<2:14:48, 97.45s/it]
+ 31%|███████████████████████████▊                                                               | 36/118 [56:34<2:14:00, 98.05s/it]
+ 31%|████████████████████████████▌                                                              | 37/118 [58:16<2:13:55, 99.21s/it]
+ 32%|█████████████████████████████▎                                                             | 38/118 [59:56<2:12:35, 99.44s/it]
+ 33%|█████████████████████████████▍                                                           | 39/118 [1:01:33<2:10:01, 98.75s/it]
+ 34%|██████████████████████████████▏                                                          | 40/118 [1:03:12<2:08:21, 98.73s/it]
+ 35%|██████████████████████████████▉                                                          | 41/118 [1:04:49<2:06:17, 98.41s/it]
+ 36%|███████████████████████████████▋                                                         | 42/118 [1:06:30<2:05:26, 99.03s/it]
+ 36%|████████████████████████████████▍                                                        | 43/118 [1:08:11<2:04:42, 99.76s/it]
+ 37%|████████████████████████████████▊                                                       | 44/118 [1:09:53<2:03:36, 100.22s/it]
+ 38%|█████████████████████████████████▉                                                       | 45/118 [1:11:25<1:59:06, 97.90s/it]
+ 39%|██████████████████████████████████▋                                                      | 46/118 [1:13:03<1:57:29, 97.91s/it]
+ 40%|███████████████████████████████████▍                                                     | 47/118 [1:14:43<1:56:39, 98.58s/it]
+ 41%|████████████████████████████████████▏                                                    | 48/118 [1:16:24<1:55:47, 99.25s/it]
+ 42%|████████████████████████████████████▉                                                    | 49/118 [1:18:04<1:54:15, 99.36s/it]
+ 42%|█████████████████████████████████████▋                                                   | 50/118 [1:19:42<1:52:17, 99.08s/it]
+ 43%|██████████████████████████████████████▍                                                  | 51/118 [1:21:21<1:50:28, 98.93s/it]
+ 44%|███████████████████████████████████████▏                                                 | 52/118 [1:23:01<1:49:13, 99.29s/it]
+ 45%|███████████████████████████████████████▉                                                 | 53/118 [1:24:41<1:47:57, 99.65s/it]
+ 46%|████████████████████████████████████████▋                                                | 54/118 [1:26:21<1:46:16, 99.63s/it]
+ 47%|█████████████████████████████████████████▍                                               | 55/118 [1:27:59<1:44:04, 99.11s/it]
+ 47%|██████████████████████████████████████████▏                                              | 56/118 [1:29:37<1:42:16, 98.98s/it]
+ 48%|██████████████████████████████████████████▉                                              | 57/118 [1:31:16<1:40:40, 99.02s/it]
+ 49%|███████████████████████████████████████████▋                                             | 58/118 [1:32:54<1:38:32, 98.54s/it]
+ 50%|████████████████████████████████████████████▌                                            | 59/118 [1:34:35<1:37:42, 99.37s/it]
+ 51%|█████████████████████████████████████████████▎                                           | 60/118 [1:36:13<1:35:39, 98.96s/it]
+ 52%|██████████████████████████████████████████████                                           | 61/118 [1:37:44<1:31:35, 96.41s/it]
+ 53%|██████████████████████████████████████████████▊                                          | 62/118 [1:39:23<1:30:46, 97.25s/it]
+ 53%|███████████████████████████████████████████████▌                                         | 63/118 [1:40:59<1:28:47, 96.87s/it]
+ 54%|████████████████████████████████████████████████▎                                        | 64/118 [1:42:40<1:28:23, 98.21s/it]
+ 55%|████████████████████████████████████████████████▍                                       | 65/118 [1:44:25<1:28:23, 100.07s/it]
+ 56%|█████████████████████████████████████████████████▏                                      | 66/118 [1:46:05<1:26:51, 100.22s/it]
+ 57%|██████████████████████████████████████████████████▌                                      | 67/118 [1:47:44<1:24:53, 99.87s/it]
+ 58%|███████████████████████████████████████████████████▎                                     | 68/118 [1:49:22<1:22:35, 99.12s/it]
+ 58%|███████████████████████████████████████████████████▍                                    | 69/118 [1:51:04<1:21:49, 100.20s/it]
+ 59%|████████████████████████████████████████████████████▊                                    | 70/118 [1:52:43<1:19:48, 99.77s/it]
+ 60%|█████████████████████████████████████████████████████▌                                   | 71/118 [1:54:19<1:17:10, 98.51s/it]
+ 61%|██████████████████████████████████████████████████████▎                                  | 72/118 [1:55:57<1:15:32, 98.53s/it]
+ 62%|███████████████████████████████████████████████████████                                  | 73/118 [1:57:34<1:13:30, 98.02s/it]
+ 63%|███████████████████████████████████████████████████████▊                                 | 74/118 [1:59:11<1:11:43, 97.80s/it]
+ 64%|███████████████████████████████████████████████████████▉                                | 75/118 [2:01:01<1:12:34, 101.27s/it]
+ 64%|████████████████████████████████████████████████████████▋                               | 76/118 [2:02:40<1:10:26, 100.64s/it]
+ 65%|█████████████████████████████████████████████████████████▍                              | 77/118 [2:04:19<1:08:28, 100.22s/it]
+ 66%|██████████████████████████████████████████████████████████▏                             | 78/118 [2:05:59<1:06:45, 100.15s/it]
+ 67%|███████████████████████████████████████████████████████████▌                             | 79/118 [2:07:38<1:04:53, 99.84s/it]
+ 68%|███████████████████████████████████████████████████████████▋                            | 80/118 [2:09:19<1:03:21, 100.04s/it]
+ 69%|█████████████████████████████████████████████████████████████                            | 81/118 [2:10:58<1:01:36, 99.90s/it]
+ 69%|███████████████████████████████████████████████████████████████▏                           | 82/118 [2:12:38<59:49, 99.72s/it]
+ 70%|████████████████████████████████████████████████████████████████                           | 83/118 [2:14:16<58:00, 99.45s/it]
+ 71%|████████████████████████████████████████████████████████████████▊                          | 84/118 [2:15:55<56:14, 99.26s/it]
+ 72%|█████████████████████████████████████████████████████████████████▌                         | 85/118 [2:17:35<54:38, 99.34s/it]
+ 73%|██████████████████████████████████████████████████████████████████▎                        | 86/118 [2:19:14<52:55, 99.25s/it]
+ 74%|███████████████████████████████████████████████████████████████████                        | 87/118 [2:20:53<51:18, 99.31s/it]
+ 75%|███████████████████████████████████████████████████████████████████▊                       | 88/118 [2:22:34<49:56, 99.89s/it]
+ 75%|███████████████████████████████████████████████████████████████████▉                      | 89/118 [2:24:15<48:23, 100.11s/it]
+ 76%|█████████████████████████████████████████████████████████████████████▍                     | 90/118 [2:25:48<45:39, 97.82s/it]
+ 77%|██████████████████████████████████████████████████████████████████████▏                    | 91/118 [2:27:26<44:09, 98.12s/it]
+ 78%|██████████████████████████████████████████████████████████████████████▉                    | 92/118 [2:29:07<42:49, 98.84s/it]
+ 79%|███████████████████████████████████████████████████████████████████████▋                   | 93/118 [2:30:45<41:03, 98.53s/it]
+ 80%|████████████████████████████████████████████████████████████████████████▍                  | 94/118 [2:32:23<39:26, 98.61s/it]
+ 81%|█████████████████████████████████████████████████████████████████████████▎                 | 95/118 [2:34:03<37:53, 98.87s/it]
+ 81%|██████████████████████████████████████████████████████████████████████████                 | 96/118 [2:35:43<36:25, 99.34s/it]
+ 82%|██████████████████████████████████████████████████████████████████████████▊                | 97/118 [2:37:23<34:45, 99.30s/it]
+ 83%|███████████████████████████████████████████████████████████████████████████▌               | 98/118 [2:39:01<32:58, 98.90s/it]
+ 84%|████████████████████████████████████████████████████████████████████████████▎              | 99/118 [2:40:42<31:31, 99.56s/it]
+ 85%|███████████████████████████████████████████████████████████████████████████▍             | 100/118 [2:42:25<30:10, 100.57s/it]
+ 86%|████████████████████████████████████████████████████████████████████████████▏            | 101/118 [2:44:05<28:26, 100.39s/it]
+ 86%|████████████████████████████████████████████████████████████████████████████▉            | 102/118 [2:45:47<26:53, 100.87s/it]
+ 87%|█████████████████████████████████████████████████████████████████████████████▋           | 103/118 [2:47:28<25:17, 101.14s/it]
+ 88%|██████████████████████████████████████████████████████████████████████████████▍          | 104/118 [2:49:11<23:42, 101.63s/it]
+ 89%|███████████████████████████████████████████████████████████████████████████████▏         | 105/118 [2:50:51<21:55, 101.19s/it]
+ 90%|███████████████████████████████████████████████████████████████████████████████▉         | 106/118 [2:52:31<20:10, 100.84s/it]
+ 91%|████████████████████████████████████████████████████████████████████████████████▋        | 107/118 [2:54:12<18:28, 100.81s/it]
+ 92%|█████████████████████████████████████████████████████████████████████████████████▍       | 108/118 [2:55:53<16:49, 100.92s/it]
+ 92%|██████████████████████████████████████████████████████████████████████████████████▏      | 109/118 [2:57:32<15:03, 100.38s/it]
+ 93%|███████████████████████████████████████████████████████████████████████████████████▉      | 110/118 [2:59:10<13:15, 99.48s/it]
+ 94%|████████████████████████████████████████████████████████████████████████████████████▋     | 111/118 [3:00:50<11:37, 99.63s/it]
+ 95%|█████████████████████████████████████████████████████████████████████████████████████▍    | 112/118 [3:02:29<09:56, 99.47s/it]
+ 96%|██████████████████████████████████████████████████████████████████████████████████████▏   | 113/118 [3:04:06<08:14, 98.85s/it]
+ 97%|██████████████████████████████████████████████████████████████████████████████████████▉   | 114/118 [3:05:46<06:36, 99.22s/it]
+ 97%|███████████████████████████████████████████████████████████████████████████████████████▋  | 115/118 [3:07:27<04:58, 99.61s/it]
+ 98%|███████████████████████████████████████████████████████████████████████████████████████▍ | 116/118 [3:09:10<03:21, 100.63s/it]
+ 99%|████████████████████████████████████████████████████████████████████████████████████████▏| 117/118 [3:10:51<01:40, 100.91s/it]
+100%|██████████████████████████████████████████████████████████████████████████████████████████| 118/118 [3:12:29<00:00, 99.88s/it]
+100%|██████████████████████████████████████████████████████████████████████████████████████████| 118/118 [3:12:29<00:00, 97.88s/it]
+sub-103_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--103
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--103
+Input shape: (65, 77, 65, 544)
+sub-103_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-103_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--103
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--103
+Input shape: (65, 77, 65, 544)
+sub-103_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-103_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--103
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--103
+Input shape: (65, 77, 65, 544)
+sub-103_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-103_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--103
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--103
+Input shape: (65, 77, 65, 544)
+sub-103_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-103_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--103
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--103
+Input shape: (65, 77, 65, 544)
+sub-103_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-109_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--109
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--109
+Input shape: (65, 77, 65, 544)
+sub-109_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-109_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--109
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--109
+Input shape: (65, 77, 65, 544)
+sub-109_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-109_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--109
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--109
+Input shape: (65, 77, 65, 544)
+sub-109_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-109_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--109
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--109
+Input shape: (65, 77, 65, 544)
+sub-109_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-109_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--109
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--109
+Input shape: (65, 77, 65, 544)
+sub-109_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-113_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--113
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--113
+Input shape: (65, 77, 65, 544)
+sub-113_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-113_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--113
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--113
+Input shape: (65, 77, 65, 544)
+sub-113_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-113_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--113
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--113
+Input shape: (65, 77, 65, 544)
+sub-113_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-113_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--113
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--113
+Input shape: (65, 77, 65, 544)
+sub-113_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-113_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--113
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--113
+Input shape: (65, 77, 65, 544)
+sub-113_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-118_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--118
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--118
+Input shape: (65, 77, 65, 544)
+sub-118_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-118_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--118
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--118
+Input shape: (65, 77, 65, 544)
+sub-118_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-118_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--118
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--118
+Input shape: (65, 77, 65, 544)
+sub-118_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-118_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--118
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--118
+Input shape: (65, 77, 65, 544)
+sub-118_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-118_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--118
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--118
+Input shape: (65, 77, 65, 544)
+sub-118_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-121_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--121
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--121
+Input shape: (65, 77, 65, 544)
+sub-121_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-121_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--121
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--121
+Input shape: (65, 77, 65, 544)
+sub-121_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-121_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--121
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--121
+Input shape: (65, 77, 65, 544)
+sub-121_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-121_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--121
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--121
+Input shape: (65, 77, 65, 544)
+sub-121_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-121_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--121
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--121
+Input shape: (65, 77, 65, 544)
+sub-121_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-127_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--127
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--127
+Input shape: (65, 77, 65, 544)
+sub-127_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-127_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--127
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--127
+Input shape: (65, 77, 65, 544)
+sub-127_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-127_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--127
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--127
+Input shape: (65, 77, 65, 544)
+sub-127_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-127_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--127
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--127
+Input shape: (65, 77, 65, 544)
+sub-127_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-127_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--127
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--127
+Input shape: (65, 77, 65, 544)
+sub-127_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-130_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--130
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--130
+Input shape: (65, 77, 65, 544)
+sub-130_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-130_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--130
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--130
+Input shape: (65, 77, 65, 544)
+sub-130_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-130_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--130
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--130
+Input shape: (65, 77, 65, 544)
+sub-130_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-130_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--130
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--130
+Input shape: (65, 77, 65, 544)
+sub-130_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-130_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--130
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--130
+Input shape: (65, 77, 65, 544)
+sub-130_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-134_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--134
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--134
+Input shape: (65, 77, 65, 544)
+sub-134_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-134_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--134
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--134
+Input shape: (65, 77, 65, 544)
+sub-134_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-134_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--134
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--134
+Input shape: (65, 77, 65, 544)
+sub-134_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-134_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--134
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--134
+Input shape: (65, 77, 65, 544)
+sub-134_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-134_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--134
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--134
+Input shape: (65, 77, 65, 544)
+sub-134_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-145_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--145
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--145
+Input shape: (65, 77, 65, 544)
+sub-145_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-145_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--145
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--145
+Input shape: (65, 77, 65, 544)
+sub-145_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-145_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--145
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--145
+Input shape: (65, 77, 65, 544)
+sub-145_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-145_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--145
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--145
+Input shape: (65, 77, 65, 544)
+sub-145_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-145_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--145
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--145
+Input shape: (65, 77, 65, 544)
+sub-145_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-146_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--146
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--146
+Input shape: (65, 77, 65, 544)
+sub-146_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-146_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--146
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--146
+Input shape: (65, 77, 65, 544)
+sub-146_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-146_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--146
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--146
+Input shape: (65, 77, 65, 544)
+sub-146_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-146_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--146
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--146
+Input shape: (65, 77, 65, 544)
+sub-146_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-146_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--146
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--146
+Input shape: (65, 77, 65, 544)
+sub-146_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-147_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--147
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--147
+Input shape: (65, 77, 65, 544)
+sub-147_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-147_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--147
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--147
+Input shape: (65, 77, 65, 544)
+sub-147_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-147_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--147
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--147
+Input shape: (65, 77, 65, 544)
+sub-147_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-147_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--147
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--147
+Input shape: (65, 77, 65, 544)
+sub-147_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-147_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--147
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--147
+Input shape: (65, 77, 65, 544)
+sub-147_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-148_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--148
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--148
+Input shape: (65, 77, 65, 544)
+sub-148_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-148_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--148
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--148
+Input shape: (65, 77, 65, 544)
+sub-148_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-148_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--148
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--148
+Input shape: (65, 77, 65, 544)
+sub-148_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-148_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--148
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--148
+Input shape: (65, 77, 65, 544)
+sub-148_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-148_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--148
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--148
+Input shape: (65, 77, 65, 544)
+sub-148_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-150_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--150
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--150
+Input shape: (65, 77, 65, 544)
+sub-150_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-150_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--150
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--150
+Input shape: (65, 77, 65, 544)
+sub-150_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-150_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--150
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--150
+Input shape: (65, 77, 65, 544)
+sub-150_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-150_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--150
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--150
+Input shape: (65, 77, 65, 544)
+sub-150_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-150_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--150
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--150
+Input shape: (65, 77, 65, 544)
+sub-150_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-151_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--151
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--151
+Input shape: (65, 77, 65, 544)
+sub-151_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-151_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--151
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--151
+Input shape: (65, 77, 65, 544)
+sub-151_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-151_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--151
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--151
+Input shape: (65, 77, 65, 544)
+sub-151_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-151_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--151
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--151
+Input shape: (65, 77, 65, 544)
+sub-151_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-151_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--151
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--151
+Input shape: (65, 77, 65, 544)
+sub-151_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-152_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--152
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--152
+Input shape: (65, 77, 65, 544)
+sub-152_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-152_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--152
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--152
+Input shape: (65, 77, 65, 544)
+sub-152_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-152_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--152
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--152
+Input shape: (65, 77, 65, 544)
+sub-152_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-152_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--152
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--152
+Input shape: (65, 77, 65, 544)
+sub-152_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-152_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--152
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--152
+Input shape: (65, 77, 65, 544)
+sub-152_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-154_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--154
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--154
+Input shape: (65, 77, 65, 544)
+sub-154_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-154_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--154
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--154
+Input shape: (65, 77, 65, 544)
+sub-154_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-154_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--154
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--154
+Input shape: (65, 77, 65, 544)
+sub-154_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-154_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--154
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--154
+Input shape: (65, 77, 65, 544)
+sub-154_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-154_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--154
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--154
+Input shape: (65, 77, 65, 544)
+sub-154_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-155_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--155
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--155
+Input shape: (65, 77, 65, 544)
+sub-155_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-155_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--155
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--155
+Input shape: (65, 77, 65, 544)
+sub-155_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-155_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--155
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--155
+Input shape: (65, 77, 65, 544)
+sub-155_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-155_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--155
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--155
+Input shape: (65, 77, 65, 544)
+sub-155_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-155_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--155
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--155
+Input shape: (65, 77, 65, 544)
+sub-155_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-159_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--159
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--159
+Input shape: (65, 77, 65, 544)
+sub-159_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-159_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--159
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--159
+Input shape: (65, 77, 65, 544)
+sub-159_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-159_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--159
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--159
+Input shape: (65, 77, 65, 544)
+sub-159_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-159_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--159
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--159
+Input shape: (65, 77, 65, 544)
+sub-159_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-159_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--159
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--159
+Input shape: (65, 77, 65, 544)
+sub-159_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-160_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--160
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--160
+Input shape: (65, 77, 65, 544)
+sub-160_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-160_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--160
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--160
+Input shape: (65, 77, 65, 544)
+sub-160_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-160_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--160
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--160
+Input shape: (65, 77, 65, 544)
+sub-160_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-160_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--160
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--160
+Input shape: (65, 77, 65, 544)
+sub-160_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-160_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--160
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--160
+Input shape: (65, 77, 65, 544)
+sub-160_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-161_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--161
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--161
+Input shape: (65, 77, 65, 544)
+sub-161_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-161_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--161
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--161
+Input shape: (65, 77, 65, 544)
+sub-161_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-161_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--161
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--161
+Input shape: (65, 77, 65, 544)
+sub-161_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-161_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--161
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--161
+Input shape: (65, 77, 65, 544)
+sub-161_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-161_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--161
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--161
+Input shape: (65, 77, 65, 544)
+sub-161_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-162_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--162
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--162
+Input shape: (65, 77, 65, 544)
+sub-162_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-162_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--162
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--162
+Input shape: (65, 77, 65, 544)
+sub-162_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-162_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--162
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--162
+Input shape: (65, 77, 65, 544)
+sub-162_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-162_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--162
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--162
+Input shape: (65, 77, 65, 544)
+sub-162_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-162_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--162
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--162
+Input shape: (65, 77, 65, 544)
+sub-162_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-164_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--164
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--164
+Input shape: (65, 77, 65, 544)
+sub-164_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-164_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--164
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--164
+Input shape: (65, 77, 65, 544)
+sub-164_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-164_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--164
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--164
+Input shape: (65, 77, 65, 544)
+sub-164_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-164_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--164
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--164
+Input shape: (65, 77, 65, 544)
+sub-164_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-164_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--164
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--164
+Input shape: (65, 77, 65, 544)
+sub-164_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-165_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--165
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--165
+Input shape: (65, 77, 65, 544)
+sub-165_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-165_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--165
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--165
+Input shape: (65, 77, 65, 544)
+sub-165_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-165_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--165
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--165
+Input shape: (65, 77, 65, 544)
+sub-165_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-165_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--165
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--165
+Input shape: (65, 77, 65, 544)
+sub-165_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-165_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--165
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--165
+Input shape: (65, 77, 65, 544)
+sub-165_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-166_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--166
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--166
+Input shape: (65, 77, 65, 544)
+sub-166_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-166_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--166
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--166
+Input shape: (65, 77, 65, 544)
+sub-166_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-166_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--166
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--166
+Input shape: (65, 77, 65, 544)
+sub-166_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-166_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--166
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--166
+Input shape: (65, 77, 65, 544)
+sub-166_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-166_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--166
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--166
+Input shape: (65, 77, 65, 544)
+sub-166_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-167_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--167
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--167
+Input shape: (65, 77, 65, 544)
+sub-167_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-167_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--167
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--167
+Input shape: (65, 77, 65, 544)
+sub-167_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-167_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--167
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--167
+Input shape: (65, 77, 65, 544)
+sub-167_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-167_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--167
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--167
+Input shape: (65, 77, 65, 544)
+sub-167_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-167_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--167
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--167
+Input shape: (65, 77, 65, 544)
+sub-167_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-169_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--169
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--169
+Input shape: (65, 77, 65, 544)
+sub-169_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-169_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--169
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--169
+Input shape: (65, 77, 65, 544)
+sub-169_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-169_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--169
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--169
+Input shape: (65, 77, 65, 544)
+sub-169_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-169_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--169
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--169
+Input shape: (65, 77, 65, 544)
+sub-169_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-169_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--169
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--169
+Input shape: (65, 77, 65, 544)
+sub-169_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-170_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--170
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--170
+Input shape: (65, 77, 65, 544)
+sub-170_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-170_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--170
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--170
+Input shape: (65, 77, 65, 544)
+sub-170_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-170_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--170
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--170
+Input shape: (65, 77, 65, 544)
+sub-170_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-170_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--170
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--170
+Input shape: (65, 77, 65, 544)
+sub-170_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-170_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--170
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--170
+Input shape: (65, 77, 65, 544)
+sub-170_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-172_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--172
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--172
+Input shape: (65, 77, 65, 544)
+sub-172_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-172_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--172
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--172
+Input shape: (65, 77, 65, 544)
+sub-172_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-172_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--172
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--172
+Input shape: (65, 77, 65, 544)
+sub-172_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-172_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--172
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--172
+Input shape: (65, 77, 65, 544)
+sub-172_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-172_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--172
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--172
+Input shape: (65, 77, 65, 544)
+sub-172_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-173_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--173
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--173
+Input shape: (65, 77, 65, 544)
+sub-173_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-173_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--173
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--173
+Input shape: (65, 77, 65, 544)
+sub-173_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-173_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--173
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--173
+Input shape: (65, 77, 65, 544)
+sub-173_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-173_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--173
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--173
+Input shape: (65, 77, 65, 544)
+sub-173_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-173_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--173
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--173
+Input shape: (65, 77, 65, 544)
+sub-173_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-175_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--175
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--175
+Input shape: (65, 77, 65, 544)
+sub-175_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-175_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--175
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--175
+Input shape: (65, 77, 65, 544)
+sub-175_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-175_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--175
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--175
+Input shape: (65, 77, 65, 544)
+sub-175_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-175_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--175
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--175
+Input shape: (65, 77, 65, 544)
+sub-175_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-175_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--175
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--175
+Input shape: (65, 77, 65, 544)
+sub-175_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-003_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--3
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--3
+Input shape: (65, 77, 65, 544)
+sub-003_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-003_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--3
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--3
+Input shape: (65, 77, 65, 544)
+sub-003_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-003_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--3
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--3
+Input shape: (65, 77, 65, 544)
+sub-003_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-003_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--3
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--3
+Input shape: (65, 77, 65, 544)
+sub-003_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-003_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--3
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--3
+Input shape: (65, 77, 65, 544)
+sub-003_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-009_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--9
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--9
+Input shape: (65, 77, 65, 544)
+sub-009_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-009_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--9
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--9
+Input shape: (65, 77, 65, 544)
+sub-009_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-009_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--9
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--9
+Input shape: (65, 77, 65, 544)
+sub-009_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-009_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--9
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--9
+Input shape: (65, 77, 65, 544)
+sub-009_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-009_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--9
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--9
+Input shape: (65, 77, 65, 544)
+sub-009_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-013_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--13
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--13
+Input shape: (65, 77, 65, 544)
+sub-013_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-013_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--13
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--13
+Input shape: (65, 77, 65, 544)
+sub-013_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-013_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--13
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--13
+Input shape: (65, 77, 65, 544)
+sub-013_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-013_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--13
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--13
+Input shape: (65, 77, 65, 544)
+sub-013_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-013_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--13
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--13
+Input shape: (65, 77, 65, 544)
+sub-013_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-018_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--18
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--18
+Input shape: (65, 77, 65, 544)
+sub-018_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-018_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--18
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--18
+Input shape: (65, 77, 65, 544)
+sub-018_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-018_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--18
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--18
+Input shape: (65, 77, 65, 544)
+sub-018_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-018_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--18
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--18
+Input shape: (65, 77, 65, 544)
+sub-018_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-018_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--18
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--18
+Input shape: (65, 77, 65, 544)
+sub-018_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-021_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--21
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--21
+Input shape: (65, 77, 65, 544)
+sub-021_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-021_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--21
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--21
+Input shape: (65, 77, 65, 544)
+sub-021_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-021_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--21
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--21
+Input shape: (65, 77, 65, 544)
+sub-021_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-021_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--21
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--21
+Input shape: (65, 77, 65, 544)
+sub-021_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-021_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--21
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--21
+Input shape: (65, 77, 65, 544)
+sub-021_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-027_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--27
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--27
+Input shape: (65, 77, 65, 544)
+sub-027_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-027_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--27
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--27
+Input shape: (65, 77, 65, 544)
+sub-027_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-027_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--27
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--27
+Input shape: (65, 77, 65, 544)
+sub-027_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-027_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--27
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--27
+Input shape: (65, 77, 65, 544)
+sub-027_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-027_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--27
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--27
+Input shape: (65, 77, 65, 544)
+sub-027_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-030_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--30
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--30
+Input shape: (65, 77, 65, 544)
+sub-030_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-030_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--30
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--30
+Input shape: (65, 77, 65, 544)
+sub-030_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-030_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--30
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--30
+Input shape: (65, 77, 65, 544)
+sub-030_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-030_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--30
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--30
+Input shape: (65, 77, 65, 544)
+sub-030_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-030_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--30
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--30
+Input shape: (65, 77, 65, 544)
+sub-030_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-034_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--34
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--34
+Input shape: (65, 77, 65, 544)
+sub-034_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-034_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--34
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--34
+Input shape: (65, 77, 65, 544)
+sub-034_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-034_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--34
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--34
+Input shape: (65, 77, 65, 544)
+sub-034_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-034_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--34
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--34
+Input shape: (65, 77, 65, 544)
+sub-034_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-034_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--34
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--34
+Input shape: (65, 77, 65, 544)
+sub-034_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-045_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--45
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--45
+Input shape: (65, 77, 65, 544)
+sub-045_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-045_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--45
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--45
+Input shape: (65, 77, 65, 544)
+sub-045_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-045_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--45
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--45
+Input shape: (65, 77, 65, 544)
+sub-045_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-045_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--45
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--45
+Input shape: (65, 77, 65, 544)
+sub-045_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-045_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--45
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--45
+Input shape: (65, 77, 65, 544)
+sub-045_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-046_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--46
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--46
+Input shape: (65, 77, 65, 544)
+sub-046_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-046_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--46
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--46
+Input shape: (65, 77, 65, 544)
+sub-046_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-046_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--46
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--46
+Input shape: (65, 77, 65, 544)
+sub-046_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-046_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--46
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--46
+Input shape: (65, 77, 65, 544)
+sub-046_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-046_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--46
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--46
+Input shape: (65, 77, 65, 544)
+sub-046_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-047_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--47
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--47
+Input shape: (65, 77, 65, 544)
+sub-047_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-047_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--47
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--47
+Input shape: (65, 77, 65, 544)
+sub-047_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-047_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--47
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--47
+Input shape: (65, 77, 65, 544)
+sub-047_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-047_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--47
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--47
+Input shape: (65, 77, 65, 544)
+sub-047_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-047_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--47
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--47
+Input shape: (65, 77, 65, 544)
+sub-047_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-048_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--48
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--48
+Input shape: (65, 77, 65, 544)
+sub-048_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-048_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--48
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--48
+Input shape: (65, 77, 65, 544)
+sub-048_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-048_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--48
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--48
+Input shape: (65, 77, 65, 544)
+sub-048_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-048_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--48
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--48
+Input shape: (65, 77, 65, 544)
+sub-048_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-048_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--48
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--48
+Input shape: (65, 77, 65, 544)
+sub-048_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-050_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--50
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--50
+Input shape: (65, 77, 65, 544)
+sub-050_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-050_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--50
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--50
+Input shape: (65, 77, 65, 544)
+sub-050_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-050_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--50
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--50
+Input shape: (65, 77, 65, 544)
+sub-050_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-050_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--50
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--50
+Input shape: (65, 77, 65, 544)
+sub-050_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-050_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--50
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--50
+Input shape: (65, 77, 65, 544)
+sub-050_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-051_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--51
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--51
+Input shape: (65, 77, 65, 544)
+sub-051_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-051_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--51
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--51
+Input shape: (65, 77, 65, 544)
+sub-051_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-051_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--51
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--51
+Input shape: (65, 77, 65, 544)
+sub-051_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-051_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--51
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--51
+Input shape: (65, 77, 65, 544)
+sub-051_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-051_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--51
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--51
+Input shape: (65, 77, 65, 544)
+sub-051_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-052_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--52
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--52
+Input shape: (65, 77, 65, 544)
+sub-052_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-052_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--52
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--52
+Input shape: (65, 77, 65, 544)
+sub-052_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-052_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--52
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--52
+Input shape: (65, 77, 65, 544)
+sub-052_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-052_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--52
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--52
+Input shape: (65, 77, 65, 544)
+sub-052_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-052_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--52
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--52
+Input shape: (65, 77, 65, 544)
+sub-052_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-054_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--54
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--54
+Input shape: (65, 77, 65, 544)
+sub-054_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-054_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--54
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--54
+Input shape: (65, 77, 65, 544)
+sub-054_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-054_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--54
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--54
+Input shape: (65, 77, 65, 544)
+sub-054_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-054_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--54
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--54
+Input shape: (65, 77, 65, 544)
+sub-054_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-054_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--54
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--54
+Input shape: (65, 77, 65, 544)
+sub-054_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-055_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--55
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--55
+Input shape: (65, 77, 65, 544)
+sub-055_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-055_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--55
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--55
+Input shape: (65, 77, 65, 544)
+sub-055_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-055_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--55
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--55
+Input shape: (65, 77, 65, 544)
+sub-055_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-055_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--55
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--55
+Input shape: (65, 77, 65, 544)
+sub-055_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-055_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--55
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--55
+Input shape: (65, 77, 65, 544)
+sub-055_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-059_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--59
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--59
+Input shape: (65, 77, 65, 544)
+sub-059_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-059_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--59
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--59
+Input shape: (65, 77, 65, 544)
+sub-059_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-059_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--59
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--59
+Input shape: (65, 77, 65, 544)
+sub-059_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-059_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--59
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--59
+Input shape: (65, 77, 65, 544)
+sub-059_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-059_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--59
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--59
+Input shape: (65, 77, 65, 544)
+sub-059_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-060_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--60
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--60
+Input shape: (65, 77, 65, 544)
+sub-060_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-060_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--60
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--60
+Input shape: (65, 77, 65, 544)
+sub-060_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-060_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--60
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--60
+Input shape: (65, 77, 65, 544)
+sub-060_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-060_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--60
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--60
+Input shape: (65, 77, 65, 544)
+sub-060_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-060_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--60
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--60
+Input shape: (65, 77, 65, 544)
+sub-060_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-061_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--61
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--61
+Input shape: (65, 77, 65, 544)
+sub-061_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-061_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--61
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--61
+Input shape: (65, 77, 65, 544)
+sub-061_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-061_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--61
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--61
+Input shape: (65, 77, 65, 544)
+sub-061_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-061_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--61
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--61
+Input shape: (65, 77, 65, 544)
+sub-061_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-061_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--61
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--61
+Input shape: (65, 77, 65, 544)
+sub-061_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-062_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--62
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--62
+Input shape: (65, 77, 65, 544)
+sub-062_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-062_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--62
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--62
+Input shape: (65, 77, 65, 544)
+sub-062_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-062_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--62
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--62
+Input shape: (65, 77, 65, 544)
+sub-062_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-062_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--62
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--62
+Input shape: (65, 77, 65, 544)
+sub-062_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-062_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--62
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--62
+Input shape: (65, 77, 65, 544)
+sub-062_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-064_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--64
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--64
+Input shape: (65, 77, 65, 544)
+sub-064_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-064_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--64
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--64
+Input shape: (65, 77, 65, 544)
+sub-064_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-064_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--64
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--64
+Input shape: (65, 77, 65, 544)
+sub-064_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-064_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--64
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--64
+Input shape: (65, 77, 65, 544)
+sub-064_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-064_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--64
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--64
+Input shape: (65, 77, 65, 544)
+sub-064_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-065_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--65
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--65
+Input shape: (65, 77, 65, 544)
+sub-065_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-065_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--65
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--65
+Input shape: (65, 77, 65, 544)
+sub-065_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-065_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--65
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--65
+Input shape: (65, 77, 65, 544)
+sub-065_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-065_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--65
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--65
+Input shape: (65, 77, 65, 544)
+sub-065_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-065_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--65
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--65
+Input shape: (65, 77, 65, 544)
+sub-065_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-066_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--66
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--66
+Input shape: (65, 77, 65, 544)
+sub-066_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-066_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--66
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--66
+Input shape: (65, 77, 65, 544)
+sub-066_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-066_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--66
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--66
+Input shape: (65, 77, 65, 544)
+sub-066_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-066_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--66
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--66
+Input shape: (65, 77, 65, 544)
+sub-066_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-066_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--66
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--66
+Input shape: (65, 77, 65, 544)
+sub-066_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-067_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--67
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--67
+Input shape: (65, 77, 65, 544)
+sub-067_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-067_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--67
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--67
+Input shape: (65, 77, 65, 544)
+sub-067_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-067_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--67
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--67
+Input shape: (65, 77, 65, 544)
+sub-067_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-067_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--67
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--67
+Input shape: (65, 77, 65, 544)
+sub-067_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-067_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--67
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--67
+Input shape: (65, 77, 65, 544)
+sub-067_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-069_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--69
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--69
+Input shape: (65, 77, 65, 544)
+sub-069_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-069_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--69
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--69
+Input shape: (65, 77, 65, 544)
+sub-069_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-069_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--69
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--69
+Input shape: (65, 77, 65, 544)
+sub-069_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-069_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--69
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--69
+Input shape: (65, 77, 65, 544)
+sub-069_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-069_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--69
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--69
+Input shape: (65, 77, 65, 544)
+sub-069_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-070_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--70
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--70
+Input shape: (65, 77, 65, 544)
+sub-070_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-070_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--70
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--70
+Input shape: (65, 77, 65, 544)
+sub-070_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-070_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--70
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--70
+Input shape: (65, 77, 65, 544)
+sub-070_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-070_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--70
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--70
+Input shape: (65, 77, 65, 544)
+sub-070_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-070_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--70
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--70
+Input shape: (65, 77, 65, 544)
+sub-070_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-072_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--72
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--72
+Input shape: (65, 77, 65, 544)
+sub-072_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-072_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--72
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--72
+Input shape: (65, 77, 65, 544)
+sub-072_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-072_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--72
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--72
+Input shape: (65, 77, 65, 544)
+sub-072_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-072_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--72
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--72
+Input shape: (65, 77, 65, 544)
+sub-072_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-072_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--72
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--72
+Input shape: (65, 77, 65, 544)
+sub-072_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-073_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--73
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--73
+Input shape: (65, 77, 65, 544)
+sub-073_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-073_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--73
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--73
+Input shape: (65, 77, 65, 544)
+sub-073_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-073_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--73
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--73
+Input shape: (65, 77, 65, 544)
+sub-073_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-073_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--73
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--73
+Input shape: (65, 77, 65, 544)
+sub-073_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-073_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--73
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--73
+Input shape: (65, 77, 65, 544)
+sub-073_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-075_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--75
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--75
+Input shape: (65, 77, 65, 544)
+sub-075_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-075_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--75
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--75
+Input shape: (65, 77, 65, 544)
+sub-075_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-075_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--75
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--75
+Input shape: (65, 77, 65, 544)
+sub-075_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-075_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--75
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--75
+Input shape: (65, 77, 65, 544)
+sub-075_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-075_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--75
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--75
+Input shape: (65, 77, 65, 544)
+sub-075_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-104_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--104
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--104
+Input shape: (65, 77, 65, 544)
+sub-104_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-104_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--104
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--104
+Input shape: (65, 77, 65, 544)
+sub-104_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-104_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--104
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--104
+Input shape: (65, 77, 65, 544)
+sub-104_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-104_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--104
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--104
+Input shape: (65, 77, 65, 544)
+sub-104_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-104_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--104
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--104
+Input shape: (65, 77, 65, 544)
+sub-104_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-105_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--105
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--105
+Input shape: (65, 77, 65, 544)
+sub-105_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-105_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--105
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--105
+Input shape: (65, 77, 65, 544)
+sub-105_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-105_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--105
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--105
+Input shape: (65, 77, 65, 544)
+sub-105_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-105_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--105
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--105
+Input shape: (65, 77, 65, 544)
+sub-105_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-105_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--105
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--105
+Input shape: (65, 77, 65, 544)
+sub-105_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-106_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--106
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--106
+Input shape: (65, 77, 65, 544)
+sub-106_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-106_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--106
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--106
+Input shape: (65, 77, 65, 544)
+sub-106_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-106_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--106
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--106
+Input shape: (65, 77, 65, 544)
+sub-106_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-106_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--106
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--106
+Input shape: (65, 77, 65, 544)
+sub-106_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-106_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--106
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--106
+Input shape: (65, 77, 65, 544)
+sub-106_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-107_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--107
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--107
+Input shape: (65, 77, 65, 544)
+sub-107_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-107_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--107
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--107
+Input shape: (65, 77, 65, 544)
+sub-107_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-107_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--107
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--107
+Input shape: (65, 77, 65, 544)
+sub-107_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-107_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--107
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--107
+Input shape: (65, 77, 65, 544)
+sub-107_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-107_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--107
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--107
+Input shape: (65, 77, 65, 544)
+sub-107_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-108_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--108
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--108
+Input shape: (65, 77, 65, 544)
+sub-108_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-108_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--108
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--108
+Input shape: (65, 77, 65, 544)
+sub-108_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-108_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--108
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--108
+Input shape: (65, 77, 65, 544)
+sub-108_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-108_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--108
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--108
+Input shape: (65, 77, 65, 544)
+sub-108_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-108_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--108
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--108
+Input shape: (65, 77, 65, 544)
+sub-108_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-111_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--111
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--111
+Input shape: (65, 77, 65, 544)
+sub-111_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-111_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--111
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--111
+Input shape: (65, 77, 65, 544)
+sub-111_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-111_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--111
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--111
+Input shape: (65, 77, 65, 544)
+sub-111_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-111_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--111
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--111
+Input shape: (65, 77, 65, 544)
+sub-111_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-111_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--111
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--111
+Input shape: (65, 77, 65, 544)
+sub-111_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-112_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--112
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--112
+Input shape: (65, 77, 65, 544)
+sub-112_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-112_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--112
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--112
+Input shape: (65, 77, 65, 544)
+sub-112_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-112_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--112
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--112
+Input shape: (65, 77, 65, 544)
+sub-112_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-112_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--112
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--112
+Input shape: (65, 77, 65, 544)
+sub-112_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-112_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--112
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--112
+Input shape: (65, 77, 65, 544)
+sub-112_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-114_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--114
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--114
+Input shape: (65, 77, 65, 544)
+sub-114_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-114_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--114
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--114
+Input shape: (65, 77, 65, 544)
+sub-114_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-114_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--114
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--114
+Input shape: (65, 77, 65, 544)
+sub-114_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-114_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--114
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--114
+Input shape: (65, 77, 65, 544)
+sub-114_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-114_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--114
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--114
+Input shape: (65, 77, 65, 544)
+sub-114_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-116_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--116
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--116
+Input shape: (65, 77, 65, 544)
+sub-116_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-116_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--116
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--116
+Input shape: (65, 77, 65, 544)
+sub-116_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-116_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--116
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--116
+Input shape: (65, 77, 65, 544)
+sub-116_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-116_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--116
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--116
+Input shape: (65, 77, 65, 544)
+sub-116_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-116_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--116
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--116
+Input shape: (65, 77, 65, 544)
+sub-116_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-117_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--117
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--117
+Input shape: (65, 77, 65, 544)
+sub-117_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-117_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--117
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--117
+Input shape: (65, 77, 65, 544)
+sub-117_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-117_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--117
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--117
+Input shape: (65, 77, 65, 544)
+sub-117_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-117_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--117
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--117
+Input shape: (65, 77, 65, 544)
+sub-117_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-117_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--117
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--117
+Input shape: (65, 77, 65, 544)
+sub-117_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-120_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--120
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--120
+Input shape: (65, 77, 65, 544)
+sub-120_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-120_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--120
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--120
+Input shape: (65, 77, 65, 544)
+sub-120_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-120_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--120
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--120
+Input shape: (65, 77, 65, 544)
+sub-120_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-120_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--120
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--120
+Input shape: (65, 77, 65, 544)
+sub-120_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-120_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--120
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--120
+Input shape: (65, 77, 65, 544)
+sub-120_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-122_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--122
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--122
+Input shape: (65, 77, 65, 544)
+sub-122_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-122_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--122
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--122
+Input shape: (65, 77, 65, 544)
+sub-122_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-122_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--122
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--122
+Input shape: (65, 77, 65, 544)
+sub-122_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-122_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--122
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--122
+Input shape: (65, 77, 65, 544)
+sub-122_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-122_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--122
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--122
+Input shape: (65, 77, 65, 544)
+sub-122_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-123_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--123
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--123
+Input shape: (65, 77, 65, 544)
+sub-123_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-123_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--123
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--123
+Input shape: (65, 77, 65, 544)
+sub-123_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-123_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--123
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--123
+Input shape: (65, 77, 65, 544)
+sub-123_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-123_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--123
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--123
+Input shape: (65, 77, 65, 544)
+sub-123_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-123_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--123
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--123
+Input shape: (65, 77, 65, 544)
+sub-123_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-126_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--126
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--126
+Input shape: (65, 77, 65, 544)
+sub-126_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-126_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--126
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--126
+Input shape: (65, 77, 65, 544)
+sub-126_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-126_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--126
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--126
+Input shape: (65, 77, 65, 544)
+sub-126_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-126_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--126
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--126
+Input shape: (65, 77, 65, 544)
+sub-126_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-126_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--126
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--126
+Input shape: (65, 77, 65, 544)
+sub-126_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-128_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--128
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--128
+Input shape: (65, 77, 65, 544)
+sub-128_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-128_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--128
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--128
+Input shape: (65, 77, 65, 544)
+sub-128_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-128_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--128
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--128
+Input shape: (65, 77, 65, 544)
+sub-128_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-128_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--128
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--128
+Input shape: (65, 77, 65, 544)
+sub-128_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-128_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--128
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--128
+Input shape: (65, 77, 65, 544)
+sub-128_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-129_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--129
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--129
+Input shape: (65, 77, 65, 544)
+sub-129_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-129_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--129
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--129
+Input shape: (65, 77, 65, 544)
+sub-129_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-129_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--129
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--129
+Input shape: (65, 77, 65, 544)
+sub-129_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-129_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--129
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--129
+Input shape: (65, 77, 65, 544)
+sub-129_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-129_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--129
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--129
+Input shape: (65, 77, 65, 544)
+sub-129_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-131_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--131
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--131
+Input shape: (65, 77, 65, 544)
+sub-131_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-131_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--131
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--131
+Input shape: (65, 77, 65, 544)
+sub-131_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-131_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--131
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--131
+Input shape: (65, 77, 65, 544)
+sub-131_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-131_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--131
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--131
+Input shape: (65, 77, 65, 544)
+sub-131_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-131_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--131
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--131
+Input shape: (65, 77, 65, 544)
+sub-131_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-132_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--132
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--132
+Input shape: (65, 77, 65, 544)
+sub-132_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-132_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--132
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--132
+Input shape: (65, 77, 65, 544)
+sub-132_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-132_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--132
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--132
+Input shape: (65, 77, 65, 544)
+sub-132_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-132_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--132
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--132
+Input shape: (65, 77, 65, 544)
+sub-132_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-132_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--132
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--132
+Input shape: (65, 77, 65, 544)
+sub-132_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-133_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--133
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--133
+Input shape: (65, 77, 65, 544)
+sub-133_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-133_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--133
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--133
+Input shape: (65, 77, 65, 544)
+sub-133_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-133_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--133
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--133
+Input shape: (65, 77, 65, 544)
+sub-133_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-133_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--133
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--133
+Input shape: (65, 77, 65, 544)
+sub-133_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-133_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--133
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--133
+Input shape: (65, 77, 65, 544)
+sub-133_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-137_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--137
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--137
+Input shape: (65, 77, 65, 544)
+sub-137_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-137_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--137
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--137
+Input shape: (65, 77, 65, 544)
+sub-137_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-137_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--137
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--137
+Input shape: (65, 77, 65, 544)
+sub-137_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-137_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--137
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--137
+Input shape: (65, 77, 65, 544)
+sub-137_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-137_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--137
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--137
+Input shape: (65, 77, 65, 544)
+sub-137_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-138_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--138
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--138
+Input shape: (65, 77, 65, 544)
+sub-138_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-138_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--138
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--138
+Input shape: (65, 77, 65, 544)
+sub-138_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-138_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--138
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--138
+Input shape: (65, 77, 65, 544)
+sub-138_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-138_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--138
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--138
+Input shape: (65, 77, 65, 544)
+sub-138_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-138_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--138
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--138
+Input shape: (65, 77, 65, 544)
+sub-138_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-142_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--142
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--142
+Input shape: (65, 77, 65, 544)
+sub-142_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-142_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--142
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--142
+Input shape: (65, 77, 65, 544)
+sub-142_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-142_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--142
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--142
+Input shape: (65, 77, 65, 544)
+sub-142_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-142_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--142
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--142
+Input shape: (65, 77, 65, 544)
+sub-142_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-142_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--142
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--142
+Input shape: (65, 77, 65, 544)
+sub-142_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-143_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--143
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--143
+Input shape: (65, 77, 65, 544)
+sub-143_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-143_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--143
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--143
+Input shape: (65, 77, 65, 544)
+sub-143_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-143_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--143
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--143
+Input shape: (65, 77, 65, 544)
+sub-143_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-143_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--143
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--143
+Input shape: (65, 77, 65, 544)
+sub-143_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-143_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--143
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--143
+Input shape: (65, 77, 65, 544)
+sub-143_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-153_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--153
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--153
+Input shape: (65, 77, 65, 544)
+sub-153_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-153_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--153
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--153
+Input shape: (65, 77, 65, 544)
+sub-153_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-153_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--153
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--153
+Input shape: (65, 77, 65, 544)
+sub-153_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-153_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--153
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--153
+Input shape: (65, 77, 65, 544)
+sub-153_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-153_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--153
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--153
+Input shape: (65, 77, 65, 544)
+sub-153_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-156_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--156
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--156
+Input shape: (65, 77, 65, 544)
+sub-156_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-156_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--156
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--156
+Input shape: (65, 77, 65, 544)
+sub-156_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-156_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--156
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--156
+Input shape: (65, 77, 65, 544)
+sub-156_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-156_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--156
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--156
+Input shape: (65, 77, 65, 544)
+sub-156_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-156_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--156
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--156
+Input shape: (65, 77, 65, 544)
+sub-156_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-157_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--157
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--157
+Input shape: (65, 77, 65, 544)
+sub-157_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-157_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--157
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--157
+Input shape: (65, 77, 65, 544)
+sub-157_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-157_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--157
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--157
+Input shape: (65, 77, 65, 544)
+sub-157_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-157_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--157
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--157
+Input shape: (65, 77, 65, 544)
+sub-157_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-157_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--157
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--157
+Input shape: (65, 77, 65, 544)
+sub-157_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-158_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--158
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--158
+Input shape: (65, 77, 65, 544)
+sub-158_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-158_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--158
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--158
+Input shape: (65, 77, 65, 544)
+sub-158_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-158_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--158
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--158
+Input shape: (65, 77, 65, 544)
+sub-158_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-158_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--158
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--158
+Input shape: (65, 77, 65, 544)
+sub-158_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-158_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--158
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--158
+Input shape: (65, 77, 65, 544)
+sub-158_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-163_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--163
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--163
+Input shape: (65, 77, 65, 544)
+sub-163_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-163_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--163
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--163
+Input shape: (65, 77, 65, 544)
+sub-163_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-163_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--163
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--163
+Input shape: (65, 77, 65, 544)
+sub-163_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-163_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--163
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--163
+Input shape: (65, 77, 65, 544)
+sub-163_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-163_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--163
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--163
+Input shape: (65, 77, 65, 544)
+sub-163_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-174_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--174
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--174
+Input shape: (65, 77, 65, 544)
+sub-174_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-174_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--174
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--174
+Input shape: (65, 77, 65, 544)
+sub-174_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-174_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--174
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--174
+Input shape: (65, 77, 65, 544)
+sub-174_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-174_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--174
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--174
+Input shape: (65, 77, 65, 544)
+sub-174_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-174_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--174
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--174
+Input shape: (65, 77, 65, 544)
+sub-174_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-004_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--4
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--4
+Input shape: (65, 77, 65, 544)
+sub-004_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-004_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--4
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--4
+Input shape: (65, 77, 65, 544)
+sub-004_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-004_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--4
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--4
+Input shape: (65, 77, 65, 544)
+sub-004_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-004_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--4
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--4
+Input shape: (65, 77, 65, 544)
+sub-004_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-004_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--4
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--4
+Input shape: (65, 77, 65, 544)
+sub-004_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-005_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--5
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--5
+Input shape: (65, 77, 65, 544)
+sub-005_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-005_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--5
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--5
+Input shape: (65, 77, 65, 544)
+sub-005_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-005_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--5
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--5
+Input shape: (65, 77, 65, 544)
+sub-005_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-005_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--5
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--5
+Input shape: (65, 77, 65, 544)
+sub-005_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-005_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--5
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--5
+Input shape: (65, 77, 65, 544)
+sub-005_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-006_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--6
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--6
+Input shape: (65, 77, 65, 544)
+sub-006_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-006_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--6
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--6
+Input shape: (65, 77, 65, 544)
+sub-006_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-006_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--6
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--6
+Input shape: (65, 77, 65, 544)
+sub-006_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-006_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--6
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--6
+Input shape: (65, 77, 65, 544)
+sub-006_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-006_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--6
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--6
+Input shape: (65, 77, 65, 544)
+sub-006_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-007_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--7
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--7
+Input shape: (65, 77, 65, 544)
+sub-007_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-007_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--7
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--7
+Input shape: (65, 77, 65, 544)
+sub-007_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-007_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--7
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--7
+Input shape: (65, 77, 65, 544)
+sub-007_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-007_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--7
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--7
+Input shape: (65, 77, 65, 544)
+sub-007_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-007_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--7
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--7
+Input shape: (65, 77, 65, 544)
+sub-007_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-008_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--8
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--8
+Input shape: (65, 77, 65, 544)
+sub-008_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-008_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--8
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--8
+Input shape: (65, 77, 65, 544)
+sub-008_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-008_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--8
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--8
+Input shape: (65, 77, 65, 544)
+sub-008_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-008_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--8
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--8
+Input shape: (65, 77, 65, 544)
+sub-008_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-008_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--8
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--8
+Input shape: (65, 77, 65, 544)
+sub-008_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-011_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--11
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--11
+Input shape: (65, 77, 65, 544)
+sub-011_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-011_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--11
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--11
+Input shape: (65, 77, 65, 544)
+sub-011_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-011_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--11
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--11
+Input shape: (65, 77, 65, 544)
+sub-011_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-011_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--11
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--11
+Input shape: (65, 77, 65, 544)
+sub-011_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-011_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--11
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--11
+Input shape: (65, 77, 65, 544)
+sub-011_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-012_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--12
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--12
+Input shape: (65, 77, 65, 544)
+sub-012_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-012_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--12
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--12
+Input shape: (65, 77, 65, 544)
+sub-012_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-012_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--12
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--12
+Input shape: (65, 77, 65, 544)
+sub-012_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-012_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--12
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--12
+Input shape: (65, 77, 65, 544)
+sub-012_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-012_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--12
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--12
+Input shape: (65, 77, 65, 544)
+sub-012_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-014_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--14
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--14
+Input shape: (65, 77, 65, 544)
+sub-014_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-014_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--14
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--14
+Input shape: (65, 77, 65, 544)
+sub-014_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-014_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--14
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--14
+Input shape: (65, 77, 65, 544)
+sub-014_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-014_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--14
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--14
+Input shape: (65, 77, 65, 544)
+sub-014_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-014_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--14
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--14
+Input shape: (65, 77, 65, 544)
+sub-014_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-016_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--16
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--16
+Input shape: (65, 77, 65, 544)
+sub-016_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-016_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--16
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--16
+Input shape: (65, 77, 65, 544)
+sub-016_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-016_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--16
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--16
+Input shape: (65, 77, 65, 544)
+sub-016_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-016_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--16
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--16
+Input shape: (65, 77, 65, 544)
+sub-016_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-016_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--16
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--16
+Input shape: (65, 77, 65, 544)
+sub-016_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-017_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--17
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--17
+Input shape: (65, 77, 65, 544)
+sub-017_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-017_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--17
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--17
+Input shape: (65, 77, 65, 544)
+sub-017_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-017_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--17
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--17
+Input shape: (65, 77, 65, 544)
+sub-017_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-017_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--17
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--17
+Input shape: (65, 77, 65, 544)
+sub-017_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-017_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--17
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--17
+Input shape: (65, 77, 65, 544)
+sub-017_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-020_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--20
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--20
+Input shape: (65, 77, 65, 544)
+sub-020_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-020_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--20
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--20
+Input shape: (65, 77, 65, 544)
+sub-020_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-020_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--20
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--20
+Input shape: (65, 77, 65, 544)
+sub-020_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-020_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--20
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--20
+Input shape: (65, 77, 65, 544)
+sub-020_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-020_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--20
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--20
+Input shape: (65, 77, 65, 544)
+sub-020_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-022_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--22
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--22
+Input shape: (65, 77, 65, 544)
+sub-022_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-022_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--22
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--22
+Input shape: (65, 77, 65, 544)
+sub-022_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-022_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--22
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--22
+Input shape: (65, 77, 65, 544)
+sub-022_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-022_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--22
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--22
+Input shape: (65, 77, 65, 544)
+sub-022_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-022_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--22
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--22
+Input shape: (65, 77, 65, 544)
+sub-022_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-023_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--23
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--23
+Input shape: (65, 77, 65, 544)
+sub-023_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-023_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--23
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--23
+Input shape: (65, 77, 65, 544)
+sub-023_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-023_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--23
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--23
+Input shape: (65, 77, 65, 544)
+sub-023_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-023_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--23
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--23
+Input shape: (65, 77, 65, 544)
+sub-023_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-023_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--23
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--23
+Input shape: (65, 77, 65, 544)
+sub-023_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-026_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--26
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--26
+Input shape: (65, 77, 65, 544)
+sub-026_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-026_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--26
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--26
+Input shape: (65, 77, 65, 544)
+sub-026_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-026_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--26
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--26
+Input shape: (65, 77, 65, 544)
+sub-026_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-026_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--26
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--26
+Input shape: (65, 77, 65, 544)
+sub-026_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-026_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--26
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--26
+Input shape: (65, 77, 65, 544)
+sub-026_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-028_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--28
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--28
+Input shape: (65, 77, 65, 544)
+sub-028_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-028_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--28
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--28
+Input shape: (65, 77, 65, 544)
+sub-028_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-028_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--28
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--28
+Input shape: (65, 77, 65, 544)
+sub-028_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-028_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--28
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--28
+Input shape: (65, 77, 65, 544)
+sub-028_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-028_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--28
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--28
+Input shape: (65, 77, 65, 544)
+sub-028_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-029_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--29
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--29
+Input shape: (65, 77, 65, 544)
+sub-029_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-029_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--29
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--29
+Input shape: (65, 77, 65, 544)
+sub-029_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-029_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--29
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--29
+Input shape: (65, 77, 65, 544)
+sub-029_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-029_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--29
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--29
+Input shape: (65, 77, 65, 544)
+sub-029_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-029_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--29
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--29
+Input shape: (65, 77, 65, 544)
+sub-029_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-031_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--31
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--31
+Input shape: (65, 77, 65, 544)
+sub-031_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-031_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--31
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--31
+Input shape: (65, 77, 65, 544)
+sub-031_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-031_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--31
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--31
+Input shape: (65, 77, 65, 544)
+sub-031_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-031_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--31
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--31
+Input shape: (65, 77, 65, 544)
+sub-031_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-031_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--31
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--31
+Input shape: (65, 77, 65, 544)
+sub-031_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-032_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--32
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--32
+Input shape: (65, 77, 65, 544)
+sub-032_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-032_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--32
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--32
+Input shape: (65, 77, 65, 544)
+sub-032_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-032_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--32
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--32
+Input shape: (65, 77, 65, 544)
+sub-032_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-032_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--32
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--32
+Input shape: (65, 77, 65, 544)
+sub-032_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-032_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--32
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--32
+Input shape: (65, 77, 65, 544)
+sub-032_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-033_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--33
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--33
+Input shape: (65, 77, 65, 544)
+sub-033_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-033_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--33
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--33
+Input shape: (65, 77, 65, 544)
+sub-033_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-033_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--33
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--33
+Input shape: (65, 77, 65, 544)
+sub-033_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-033_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--33
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--33
+Input shape: (65, 77, 65, 544)
+sub-033_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-033_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--33
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--33
+Input shape: (65, 77, 65, 544)
+sub-033_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-037_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--37
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--37
+Input shape: (65, 77, 65, 544)
+sub-037_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-037_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--37
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--37
+Input shape: (65, 77, 65, 544)
+sub-037_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-037_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--37
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--37
+Input shape: (65, 77, 65, 544)
+sub-037_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-037_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--37
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--37
+Input shape: (65, 77, 65, 544)
+sub-037_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-037_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--37
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--37
+Input shape: (65, 77, 65, 544)
+sub-037_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-038_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--38
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--38
+Input shape: (65, 77, 65, 544)
+sub-038_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-038_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--38
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--38
+Input shape: (65, 77, 65, 544)
+sub-038_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-038_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--38
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--38
+Input shape: (65, 77, 65, 544)
+sub-038_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-038_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--38
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--38
+Input shape: (65, 77, 65, 544)
+sub-038_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-038_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--38
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--38
+Input shape: (65, 77, 65, 544)
+sub-038_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-042_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--42
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--42
+Input shape: (65, 77, 65, 544)
+sub-042_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-042_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--42
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--42
+Input shape: (65, 77, 65, 544)
+sub-042_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-042_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--42
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--42
+Input shape: (65, 77, 65, 544)
+sub-042_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-042_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--42
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--42
+Input shape: (65, 77, 65, 544)
+sub-042_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-042_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--42
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--42
+Input shape: (65, 77, 65, 544)
+sub-042_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-043_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--43
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--43
+Input shape: (65, 77, 65, 544)
+sub-043_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-043_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--43
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--43
+Input shape: (65, 77, 65, 544)
+sub-043_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-043_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--43
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--43
+Input shape: (65, 77, 65, 544)
+sub-043_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-043_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--43
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--43
+Input shape: (65, 77, 65, 544)
+sub-043_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-043_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--43
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--43
+Input shape: (65, 77, 65, 544)
+sub-043_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-053_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--53
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--53
+Input shape: (65, 77, 65, 544)
+sub-053_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-053_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--53
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--53
+Input shape: (65, 77, 65, 544)
+sub-053_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-053_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--53
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--53
+Input shape: (65, 77, 65, 544)
+sub-053_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-053_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--53
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--53
+Input shape: (65, 77, 65, 544)
+sub-053_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-053_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--53
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--53
+Input shape: (65, 77, 65, 544)
+sub-053_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-056_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--56
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--56
+Input shape: (65, 77, 65, 544)
+sub-056_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-056_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--56
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--56
+Input shape: (65, 77, 65, 544)
+sub-056_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-056_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--56
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--56
+Input shape: (65, 77, 65, 544)
+sub-056_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-056_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--56
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--56
+Input shape: (65, 77, 65, 544)
+sub-056_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-056_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--56
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--56
+Input shape: (65, 77, 65, 544)
+sub-056_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-057_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--57
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--57
+Input shape: (65, 77, 65, 544)
+sub-057_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-057_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--57
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--57
+Input shape: (65, 77, 65, 544)
+sub-057_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-057_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--57
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--57
+Input shape: (65, 77, 65, 544)
+sub-057_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-057_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--57
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--57
+Input shape: (65, 77, 65, 544)
+sub-057_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-057_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--57
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--57
+Input shape: (65, 77, 65, 544)
+sub-057_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-058_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--58
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--58
+Input shape: (65, 77, 65, 544)
+sub-058_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-058_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--58
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--58
+Input shape: (65, 77, 65, 544)
+sub-058_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-058_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--58
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--58
+Input shape: (65, 77, 65, 544)
+sub-058_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-058_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--58
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--58
+Input shape: (65, 77, 65, 544)
+sub-058_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-058_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--58
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--58
+Input shape: (65, 77, 65, 544)
+sub-058_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-063_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--63
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--63
+Input shape: (65, 77, 65, 544)
+sub-063_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-063_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--63
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--63
+Input shape: (65, 77, 65, 544)
+sub-063_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-063_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--63
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--63
+Input shape: (65, 77, 65, 544)
+sub-063_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-063_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--63
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--63
+Input shape: (65, 77, 65, 544)
+sub-063_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-063_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--63
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--63
+Input shape: (65, 77, 65, 544)
+sub-063_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+sub-074_ses-1_task-Conv_run-1_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--74
+ Shape after trimming trial: run-1 (65, 77, 65, 544)--74
+Input shape: (65, 77, 65, 544)
+sub-074_ses-1_task-Conv_run-1_desc-confounds_timeseries.tsv
+(544, 50)
+sub-074_ses-1_task-Conv_run-2_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--74
+ Shape after trimming trial: run-2 (65, 77, 65, 544)--74
+Input shape: (65, 77, 65, 544)
+sub-074_ses-1_task-Conv_run-2_desc-confounds_timeseries.tsv
+(544, 50)
+sub-074_ses-1_task-Conv_run-3_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--74
+ Shape after trimming trial: run-3 (65, 77, 65, 544)--74
+Input shape: (65, 77, 65, 544)
+sub-074_ses-1_task-Conv_run-3_desc-confounds_timeseries.tsv
+(544, 50)
+sub-074_ses-1_task-Conv_run-4_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--74
+ Shape after trimming trial: run-4 (65, 77, 65, 544)--74
+Input shape: (65, 77, 65, 544)
+sub-074_ses-1_task-Conv_run-4_desc-confounds_timeseries.tsv
+(544, 50)
+sub-074_ses-1_task-Conv_run-5_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
+ Shape of data: (65, 77, 65, 544)--74
+ Shape after trimming trial: run-5 (65, 77, 65, 544)--74
+Input shape: (65, 77, 65, 544)
+sub-074_ses-1_task-Conv_run-5_desc-confounds_timeseries.tsv
+(544, 50)
+Final shape of cleaned data: (65, 77, 65, 1200).
+
+  0%|                                                                                                      | 0/118 [00:00<?, ?it/s]
+  1%|▊                                                                                           | 1/118 [01:31<2:57:59, 91.27s/it]
+  2%|█▌                                                                                          | 2/118 [03:02<2:56:21, 91.22s/it]
+  3%|██▎                                                                                         | 3/118 [04:42<3:02:12, 95.06s/it]
+  3%|███                                                                                         | 4/118 [06:22<3:04:44, 97.23s/it]
+  4%|███▉                                                                                        | 5/118 [08:03<3:05:17, 98.38s/it]
+  5%|████▋                                                                                       | 6/118 [09:43<3:04:48, 99.00s/it]
+  6%|█████▍                                                                                      | 7/118 [11:22<3:03:16, 99.06s/it]
+  7%|██████▏                                                                                     | 8/118 [13:02<3:02:11, 99.37s/it]
+  8%|███████                                                                                     | 9/118 [14:40<2:59:53, 99.02s/it]
+  8%|███████▋                                                                                   | 10/118 [16:16<2:56:37, 98.12s/it]
+  9%|████████▍                                                                                  | 11/118 [17:58<2:56:59, 99.25s/it]
+ 10%|█████████▏                                                                                | 12/118 [19:42<2:57:48, 100.65s/it]
+ 11%|█████████▉                                                                                | 13/118 [21:27<2:58:33, 102.04s/it]
+ 12%|██████████▋                                                                               | 14/118 [23:08<2:55:57, 101.52s/it]
+ 13%|███████████▍                                                                              | 15/118 [24:50<2:54:35, 101.70s/it]
+ 14%|████████████▏                                                                             | 16/118 [26:29<2:51:51, 101.09s/it]
+ 14%|████████████▉                                                                             | 17/118 [28:12<2:50:57, 101.55s/it]
+ 15%|█████████████▋                                                                            | 18/118 [29:51<2:47:53, 100.73s/it]
+ 16%|██████████████▍                                                                           | 19/118 [31:31<2:46:02, 100.63s/it]
+ 17%|███████████████▎                                                                          | 20/118 [33:11<2:43:54, 100.36s/it]
+ 18%|████████████████                                                                          | 21/118 [34:53<2:42:51, 100.74s/it]
+ 19%|████████████████▊                                                                         | 22/118 [36:32<2:40:38, 100.40s/it]
+ 19%|█████████████████▌                                                                        | 23/118 [38:12<2:38:48, 100.30s/it]
+ 20%|██████████████████▌                                                                        | 24/118 [39:50<2:36:03, 99.61s/it]
+ 21%|███████████████████▎                                                                       | 25/118 [41:29<2:34:04, 99.40s/it]
+ 22%|████████████████████                                                                       | 26/118 [43:05<2:30:55, 98.43s/it]
+ 23%|████████████████████▌                                                                     | 27/118 [44:49<2:31:53, 100.15s/it]
+ 24%|█████████████████████▌                                                                     | 28/118 [46:23<2:27:03, 98.04s/it]
+ 25%|██████████████████████▎                                                                    | 29/118 [47:52<2:21:39, 95.50s/it]
+ 25%|███████████████████████▏                                                                   | 30/118 [49:22<2:17:46, 93.94s/it]
+ 26%|███████████████████████▉                                                                   | 31/118 [51:00<2:17:36, 94.90s/it]
+ 27%|████████████████████████▋                                                                  | 32/118 [52:39<2:17:53, 96.20s/it]
+ 28%|█████████████████████████▍                                                                 | 33/118 [54:19<2:17:59, 97.41s/it]
+ 29%|██████████████████████████▏                                                                | 34/118 [56:00<2:17:43, 98.38s/it]
+ 30%|██████████████████████████▉                                                                | 35/118 [57:37<2:15:42, 98.11s/it]
+ 31%|███████████████████████████▊                                                               | 36/118 [59:17<2:14:56, 98.74s/it]
+ 31%|███████████████████████████▉                                                             | 37/118 [1:01:00<2:14:49, 99.86s/it]
+ 32%|████████████████████████████▎                                                           | 38/118 [1:02:40<2:13:25, 100.07s/it]
+ 33%|█████████████████████████████▍                                                           | 39/118 [1:04:17<2:10:22, 99.02s/it]
+ 34%|██████████████████████████████▏                                                          | 40/118 [1:05:55<2:08:28, 98.82s/it]
+ 35%|██████████████████████████████▉                                                          | 41/118 [1:07:33<2:06:33, 98.62s/it]
+ 36%|███████████████████████████████▋                                                         | 42/118 [1:09:15<2:06:07, 99.57s/it]
+ 36%|████████████████████████████████                                                        | 43/118 [1:10:58<2:05:46, 100.62s/it]
+ 37%|████████████████████████████████▊                                                       | 44/118 [1:12:39<2:04:09, 100.67s/it]
+ 38%|█████████████████████████████████▉                                                       | 45/118 [1:14:12<1:59:30, 98.23s/it]
+ 39%|██████████████████████████████████▋                                                      | 46/118 [1:15:50<1:57:45, 98.13s/it]
+ 40%|███████████████████████████████████▍                                                     | 47/118 [1:17:33<1:57:59, 99.71s/it]
+ 41%|███████████████████████████████████▊                                                    | 48/118 [1:19:17<1:57:51, 101.03s/it]
+ 42%|████████████████████████████████████▌                                                   | 49/118 [1:20:57<1:55:50, 100.73s/it]
+ 42%|█████████████████████████████████████▎                                                  | 50/118 [1:22:37<1:53:53, 100.49s/it]
+ 43%|██████████████████████████████████████                                                  | 51/118 [1:24:17<1:51:58, 100.27s/it]
+ 44%|██████████████████████████████████████▊                                                 | 52/118 [1:25:58<1:50:34, 100.52s/it]
+ 45%|███████████████████████████████████████▌                                                | 53/118 [1:27:39<1:49:03, 100.68s/it]
+ 46%|████████████████████████████████████████▎                                               | 54/118 [1:29:19<1:47:03, 100.37s/it]
+ 47%|█████████████████████████████████████████▍                                               | 55/118 [1:30:56<1:44:35, 99.62s/it]
+ 47%|██████████████████████████████████████████▏                                              | 56/118 [1:32:35<1:42:39, 99.34s/it]
+ 48%|██████████████████████████████████████████▉                                              | 57/118 [1:34:14<1:40:44, 99.10s/it]
+ 49%|███████████████████████████████████████████▋                                             | 58/118 [1:35:51<1:38:37, 98.62s/it]
+ 50%|████████████████████████████████████████████▌                                            | 59/118 [1:37:31<1:37:17, 98.94s/it]
+ 51%|█████████████████████████████████████████████▎                                           | 60/118 [1:39:09<1:35:29, 98.78s/it]
+ 52%|██████████████████████████████████████████████                                           | 61/118 [1:40:39<1:31:23, 96.21s/it]
+ 53%|██████████████████████████████████████████████▊                                          | 62/118 [1:42:19<1:30:45, 97.24s/it]
+ 53%|███████████████████████████████████████████████▌                                         | 63/118 [1:43:55<1:28:44, 96.81s/it]
+ 54%|████████████████████████████████████████████████▎                                        | 64/118 [1:45:38<1:28:42, 98.56s/it]
+ 55%|█████████████████████████████████████████████████                                        | 65/118 [1:47:20<1:28:09, 99.80s/it]
+ 56%|█████████████████████████████████████████████████▊                                       | 66/118 [1:49:00<1:26:24, 99.71s/it]
+ 57%|██████████████████████████████████████████████████▌                                      | 67/118 [1:50:37<1:24:12, 99.07s/it]
+ 58%|███████████████████████████████████████████████████▎                                     | 68/118 [1:52:15<1:22:04, 98.50s/it]slurmstepd: error: *** JOB 472185 ON spockmk2-19 CANCELLED AT 2025-02-20T00:44:58 DUE TO TIME LIMIT ***
