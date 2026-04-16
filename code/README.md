@@ -2,8 +2,9 @@
 This repository contains code and resources for the pregistered study that can be found here:
 https://osf.io/vs27z/?view_only=a8b97b5824a2473aa3f1590d36657fc5
 
-**Author:** Laetitia Mwilambwe-Tshilobo
-**Last edited:** 02/06/2025\ **Created**1/27/2024
+**Author:** Laetitia Mwilambwe-Tshilobo \
+**Last edited:** 02/06/2025 \
+**Created:** 1/27/2024
 
 # The pipeline steps
 All scripts used to perform analyses from the paper are listed below
@@ -18,7 +19,7 @@ All scripts used to perform analyses from the paper are listed below
 
     * Intersubject correlation (ISC) measures how similarly two (or more) participants’ brain signals fluctuate over time during the same task or stimulus. By correlating the neural timecourses of participant A with participant B, we can assess whether their brain activity patterns show consistent, synchronized responses. This helps identify shared neural dynamics that might be related to the stimulus or interaction at hand.\
 
-    * The code in its current iteration was last edited (2/4/2026), and now will run hyperalignment+ISC for a specific model (model9 or model9_task) AND for a specific parcellation (Schaefer 100parcel 17network, harvard-oxford subcortical, and Glasser atlas). I added this edit because of reviewer comments wanting us to run our analyses such that it includes subcortical regions, has higher parcellation atlas that include language specific network, and to run our analysis with regular confound modeling (model9) and the confound + task regressors (model9_task). I recognize that currently the script for the different atlases `~/code/run_fastsrm_<atlas_name>.py` is not the most efficient way of doing this, but currently that's the way it is formatted. I'll eventually clean this to account for the inificiency. 
+    * The code in its current iteration was last edited (2/4/2026), and now will run hyperalignment+ISC for a specific model (model9 or model9_task) AND for a specific parcellation (Schaefer 100parcel 17network, harvard-oxford subcortical, and Glasser atlas). I added this edit because of reviewer comments wanting us to run our analyses such that it includes subcortical regions, has higher parcellation atlas that include language specific network, and to run our analysis with regular confound modeling (model9) and the confound + task regressors (model9_task). I recognize that currently the script for the different atlases `~/code/run_fastsrm_<atlas_name>.py` is not the most efficient way of doing this, but currently that's the way it is formatted. When there is time (🙃) I'll eventually clean this to account for the inefficiency. 
 
 ## Subject exclusions for main ISC study
 'sub-001','sub-101':
@@ -31,18 +32,28 @@ All scripts used to perform analyses from the paper are listed below
 ## Analysis steps run on conversation data
 3. Compute time lagged intersubject correlation analyses (`~/code/analyze_results.ipynb`). The purpose of this this notebook is to do the following things:
     - combine the time locked ISC results from step 2 and save as a .csv the different results based on the combination of model/condition/parcellation run
-    - run lagged-ISC: 
+    - run lagged-ISC:
+    - examine the effects of autocorrelation on the lagged-ISC results (reviewer suggestion)
+   
 4. Univariate analyses`~code/univariate_analysis.ipynb`
 
-
-## Notes of changes made to confound modeling code
+5. LME analysis on results from the 3 atlases (1) Schaefer 100p 17n (original submission); (2) Harvard-Oxford subcortical (Revision 1); (3) Glasser 360 cortical atlas (Reviosion 1). For each parcellation atlas I run the following: 
+    - LME model per lag: ISCparcel ~ trial + turn_duration + condition + (1|dyad_id)
+    - Plot LME results on brain inflated brain (schaefer + glasser) or coronal slice (harvard-oxford) for all lags
+    - Condition differences in average network ISC measured at lag = 0 (time-locked) + plot
+    - Network x lag average ISC plots for each main effect and free-flowing > scripted contrast
+    - Supplementary analyses
+         - comparison between LME results based on denoising approach (model9 vs model9_task)
+         - comparison between lag results using pre-whitened vs non-prewhitened data
+         - comparison between wholebrain ISC using anatimically versus SRM functionally aligned task data
+         - descriptive of turn duration and number of turns per trial for the free-flowing and scripted conversations
+## Notes of changes made to confound modeling code (for my future self and any PSNL folks)
 I’ve adapted Zaid’s confound modeling code to run using the .nii functional data. You can find the test code in scratch here:
 `~/work/CONV_ISC/conversation_pipeline/code`.\
 
 I have it running so that it runs the confound modeling with the task confounds + model 9. It outputs the cleaned trials for each condition as well. I’ve added all this information to the read.\ 
 
 I made a few key changes which I am listing below.\ 
-
 •	code/constants.py\
 o	expanded the list of subjects with interrupted scans to include strangers + friend subjects\
 •	code/clean.py\
@@ -56,5 +67,5 @@ o	I modified the `get_timing`,`get_trials`, ` get_timinglog_boxcars` functions t
 o	I modified the ` get_raw_bold` function to work with .nii files instead of .gii. The most important change is just how the date is being imported, reshaped, and stacked to be compatible with the clean.py script. \
 
 ## Tracking of changes made to pipeline
- - Note that you need to use conda activate fconv 
+ - Note: PSNL folks to run on scotty you need to use conda activate fconv 
 
