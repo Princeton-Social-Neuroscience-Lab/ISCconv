@@ -1,7 +1,7 @@
 # fMRI hyperscanning reveals widespread neural coupling during natural conversations
 This repository contains code in support of "fMRI hyperscanning reveals widespread neural coupling during natural conversations", available as a preprint on [PsyArXiv](https://osf.io/preprints/psyarxiv/5ygkj_v1).
 
-#The code was written in Python 3.8.10. and R
+The code was written in Python 3.8.10. and R
 Below I describe the contents of this repository.
 
 ## `code`
